@@ -1,2 +1,6 @@
 FileOne
+<<<<<<< HEAD
 --emergencyfix completed
+=======
+--Updated the first file--
+>>>>>>> SecondOne
